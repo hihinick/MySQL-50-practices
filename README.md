@@ -1,0 +1,1 @@
+# MySQL-50-practices
